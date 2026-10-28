@@ -1,6 +1,6 @@
 # InvenPrint
 
-Sistema web de inventario de materia prima para imprentas. Permite controlar existencias de papel y planchas CTP, gestionar proveedores y generar reportes.
+Sistema web de inventario de materia prima para imprentas. Permite controlar existencias de papel planchas CTP y productos OFFSET, gestionar proveedores y generar reportes.
 
 > Proyecto basado en un trabajo real para una empresa del sector editorial. La marca, los datos y las claves fueron reemplazados por ejemplos.
 
